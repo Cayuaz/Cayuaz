@@ -1,11 +1,11 @@
 name: Generate Snake
 
 on:
-  # Roda a cada 6 horas
+  
   schedule:
     - cron: "0 */6 * * *" 
   
-  # Permite rodar manualmente
+  
   workflow_dispatch:
 
 jobs:
@@ -13,10 +13,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Atualizei para v3 (mais seguro)
+     
       - uses: actions/checkout@v3
 
-      # AQUI ESTAVA O ERRO: Atualizei de v2 para v3
+      
       - uses: Platane/snk@v3
         id: snake-gif
         with:
@@ -27,7 +27,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Atualizei para v3.1.0 para publicar corretamente
+      
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
