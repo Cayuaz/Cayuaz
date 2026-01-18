@@ -27,7 +27,7 @@ Minha rotina atual de estudos envolve aprofundar no ecossistema React e dominar 
 
 **Front-end Moderno:**
 * **Estilização & UI:** TailwindCSS, ShadcnUI.
-* **Gerenciamento de Estado:** Context API.
+* **Gerenciamento de Estado:** Zustand.
 * **Linguagem:** TypeScript avançado.
 
 **Back-end (Em foco):**
