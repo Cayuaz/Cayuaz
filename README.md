@@ -15,11 +15,11 @@
 
 ### 💻 Sobre mim
 
-Sou um desenvolvedor **Fullstack** (em formação ADS) apaixonado por unir engenharia de software e ferramentas de produtividade. Comecei com React "puro", mas atualmente estou migrando meu foco para o ecossistema **Next.js** para criar aplicações mais robustas e otimizadas para a web moderna.
+Sou um desenvolvedor Fullstack (em formação ADS) apaixonado por unir engenharia de software e ferramentas de produtividade. Comecei com React "puro", mas estou migrando para o ecossistema Next.js para criar aplicações mais robustas e otimizadas para a web moderna.
 
-Atualmente, estou focado no projeto **Daydreams**, um e-commerce de streetwear onde aplico **Clean Architecture**, **Docker** e **Inteligência Artificial** para gerar assets visuais.
+Recentemente, concluí o projeto Daydreams, um e-commerce de streetwear onde apliquei Clean Architecture, Docker e IA Generativa para criar uma experiência completa de produto.
 
-Meu objetivo é dominar o desenvolvimento web moderno e integrar IA (como o **Lovable**) ao meu fluxo de trabalho. 🎮 ☁️
+Neste momento, meu foco é expandir meu stack com Python e explorar ferramentas de "AI Engineering" (como o Lovable) para criar projetos mais avançados.
 
 ---
 
