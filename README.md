@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Ol%C3%A1!+Eu+sou+o+Cayu%C3%A3;Desenvolvedor+Front-end;Explorando+o+Back-end" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=650&lines=Ol%C3%A1!+Eu+sou+o+Cayu%C3%A3;Desenvolvedor+Fullstack+%7C+React+%7C+NodeJS+%7C+TypeScript" alt="Typing SVG" />
   
   <p>
     <a href="https://www.linkedin.com/in/cayu%C3%A3-ronald-291bb9393">
@@ -15,26 +15,26 @@
 
 ### 💻 Sobre mim
 
-Sou um desenvolvedor apaixonado por **Front-end**, focado em criar experiências digitais intuitivas e performáticas. Recentemente, decidi expandir meus horizontes e **comecei a estudar Back-end** para compreender o ciclo completo das aplicações e criar soluções mais robustas.
+Sou um desenvolvedor **Fullstack** (em formação ADS) apaixonado por unir engenharia de software e ferramentas de produtividade. Comecei com React "puro", mas atualmente estou migrando meu foco para o ecossistema **Next.js** para criar aplicações mais robustas e otimizadas para a web moderna.
 
-Acredito que a criatividade que consumimos (em jogos indie, cinema e arte) inspira diretamente o código que criamos. 🎮 🎬
+Atualmente, estou focado no projeto **Daydreams**, um e-commerce de streetwear onde aplico **Clean Architecture**, **Docker** e **Inteligência Artificial** para gerar assets visuais.
+
+Meu objetivo é dominar o desenvolvimento web moderno e integrar IA (como o **Lovable**) ao meu fluxo de trabalho. 🎮 ☁️
 
 ---
 
-### 📚 O que estou estudando & Praticando
+### 📚 O que estou estudando & Próximos Passos
 
-Minha rotina atual de estudos envolve aprofundar no ecossistema React e dominar a construção de APIs.
+Meu roadmap está focado em performance no Front-end e expansão para novas linguagens no Back-end.
 
-**Front-end Moderno:**
-* **Estilização & UI:** TailwindCSS, ShadcnUI.
-* **Gerenciamento de Estado:** Zustand.
-* **Linguagem:** TypeScript avançado.
+**Foco Atual (The Stack):**
+* **Framework:** Next.js (App Router, Server Actions).
+* **UI:** TailwindCSS, ShadcnUI.
+* **Back-end:** Node.js, Clean Architecture.
 
-**Back-end (Em foco):**
-* **Core:** Node.js, Express.
-* **Banco de Dados:** Prisma ORM, PostgreSQL, Modelagem de dados.
-* **Segurança & Auth:** JWT, Bcrypt.
-* **Ferramentas:** Postman, REST API concepts.
+**Loading... (Próximos Passos):**
+* **🐍 Python:** Para expandir minhas capacidades de Backend e Data.
+* **✨ Lovable:** Explorando ferramentas de "AI Engineering" para acelerar a criação de produtos.
 
 ---
 
@@ -44,7 +44,7 @@ Minha rotina atual de estudos envolve aprofundar no ecossistema React e dominar 
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -52,23 +52,15 @@ Minha rotina atual de estudos envolve aprofundar no ecossistema React e dominar 
 
 <br/>
 
-### 🧩 Soft Skills
-
-* **Clean Code:** Foco em escrever código legível e arquiteturas organizadas (MVC/Clean Arch).
-* **Resolução de Problemas:** Gosto de entender o "porquê" das coisas, não apenas o "como".
-* **Criatividade:** Visão voltada para detalhes visuais e experiência do usuário.
-
----
-
 ### 🚀 Projetos em Destaque
 
-Aqui estão alguns dos projetos onde apliquei meus conhecimentos recentes:
+Aqui estão meus principais projetos, com foco em arquitetura e produto:
 
-| Projeto | Stack | Descrição Rápida |
+| Projeto | Stack Principal | Destaques Técnicos |
 | :--- | :--- | :--- |
-| **Marketplace API** | Node, TS, Prisma, Zod | API RESTful completa com autenticação, transações de banco e validação rigorosa. |
-| **Secret Word** | React, TS, CSS | Jogo de adivinhação de palavras refatorado para TypeScript com design responsivo. |
-| **Form CEP** | TypeScript, API | Aplicação de busca de endereço via consumo de API externa. |
+| **Daydreams E-commerce** | React, Node, Clean Arch, Docker | **Projeto Fullstack.** Assets gerados via IA (Gemini), gestão de estado com Zustand e backend robusto com POO. |
+| **Marketplace API** | Node, TS, Prisma, Zod | API RESTful com autenticação JWT, controle de acesso (RBAC) e transações atômicas. |
+| **Secret Word** | React, TS, Vite | Jogo interativo refatorado para TypeScript, focado em lógica de componentes. |
 
 ---
 
